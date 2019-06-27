@@ -1,0 +1,71 @@
+*{
+	margin: 0;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;}
+
+body{}
+
+
+.first{	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	background: #2196f3;
+	overflow: hidden;
+	font-size: large;
+	font-family: Raleway;}
+
+.one{
+	border: 5px solid white; width: 33.33%;
+	float:left; padding: 05px 15px; height: 200px;}
+
+.two{border: 5px solid white; width: 33.33%;
+	float: left; padding: 05px 15px; height: 200px;}
+
+.three{border: 5px solid white; width: 33.33%;
+	float: left;padding: 05px 15px; height: 200px;}
+
+.second{width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	background: #2196f3;
+	overflow: hidden;
+	font-size: large;
+	font-family: Raleway;}
+
+.full{border: 5px solid white; width: 100%;
+	float:left; padding: 05px 15px; height: 200px;}
+
+.third{	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	background: #2196f3;
+	overflow: hidden;
+	font-size: large;
+	font-family: Raleway;}
+
+.div-one{border: 5px solid white; width: 50%;
+	float:left; padding: 05px 15px; height: 200px;}
+
+.div-two{border: 5px solid white; width:50%;
+	float:left; padding: 05px 15px; height: 200px}
+
+
+.forth{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	background: #2196f3;
+	overflow: hidden;
+	font-size: large;
+	font-family: Raleway;}
+
+.div-first{border: 5px solid white; width: 66%;
+	float:left; padding: 05px 15px; height: 200px;}
+
+.div-second{border: 5px solid white; width:17%;
+	float:left; padding: 05px 15px; height: 200px}
+
+.div-third{border: 5px solid white; width:17%;
+	float:left; padding: 05px 15px; height: 200px}
+
